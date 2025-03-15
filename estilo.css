@@ -2,3 +2,8 @@ h1 {
     color: red;
     background-color: blue;
 }
+
+h2:hover {
+    color: yellow;
+    background-color: black;
+}
